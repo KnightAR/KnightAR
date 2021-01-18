@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Lis</h1>
 <h3 align="center">A passionate backend developer from Las Vegas, NV</h3>
 
-- 👨‍💻 I specilize in [PHP](https://php.net) and [Laravel](https://laravel.com)
+- 👨‍💻 I specialize in [PHP](https://php.net) and [Laravel](https://laravel.com)
 - 🔭 I’m currently working on **HGG App** for [Gypsum Resources Materials](https://www.gypsumresources.com)
 
 - 📄 Know about my experiences [https://cvmkr.com/K2f5](https://cvmkr.com/K2f5)
