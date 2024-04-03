@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Las Vegas, NV</h3>
 
 - 👨‍💻 I specialize in [PHP](https://php.net) and [Laravel](https://laravel.com)
-- 🔭 I’m currently working on **HGG App** for [Gypsum Resources Materials](https://www.gypsumresources.com)
+- 🔭 I’m currently working at [iHub Global](https://ihub.global)
 
 - 📄 Know about my experiences [https://cvmkr.com/K2f5](https://cvmkr.com/K2f5)
 
